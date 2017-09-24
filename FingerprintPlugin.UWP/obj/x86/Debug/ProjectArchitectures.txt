@@ -1,0 +1,2 @@
+D:\Development\Study\Frameworks\Xamarin\FingerprintPlugin\FingerprintPlugin\FingerprintPlugin.UWP\FingerprintPlugin.UWP.csproj;x86
+D:\Development\Study\Frameworks\Xamarin\FingerprintPlugin\FingerprintPlugin\FingerprintPlugin\FingerprintPlugin.csproj;neutral
